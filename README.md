@@ -21,7 +21,7 @@ src="https://img.shields.io/github/followers/perfectjsr?logo=github&style=for-th
 
 ### Tools | Frameworks
 
-*  Web: ReactJS, NodeJS, ExpressJS, MongoDB, GraphQL
+*  Web: ReactJS, NodeJS, ExpressJS, MongoDB.
 
 *  Data Preprocessing: NumPy, Pandas.
 
