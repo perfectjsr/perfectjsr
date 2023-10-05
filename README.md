@@ -5,7 +5,6 @@ Student at Arya Institute of Engineering & Technology, Jaipur
 -------------------------------------------------------------
 
 * 🌍  I'm based in Jaipur
-* ✉️  You can contact me at [jitendrasinghrawat.jsr@gmail.com](mailto:jitendrasinghrawat.jsr@gmail.com)
 * 🧠  I'm currently learning MERN Stack
 
 <a href="https://www.github.com/perfectjsr" target="_blank" rel="noreferrer"><img
