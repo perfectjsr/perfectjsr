@@ -1,11 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jitendra Singh Rawat
 ============================================================================================================================================
 
-Student at Arya Institute of Engineering & Technology, Jaipur
+Salesforce Developer at Zordial Technologies
 -------------------------------------------------------------
 
-* 🌍  I'm based in Jaipur
-* 🧠  I'm currently learning MERN Stack
+* 🌍  Based in Jaipur
+* 🧠  Salesforce Developer
 
 <a href="https://www.github.com/perfectjsr" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/perfectjsr?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
